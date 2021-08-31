@@ -1,0 +1,10 @@
+{
+  "dataSet": [
+    {
+      "product" : "macbook",
+      "dolarsPrice": 602.00,
+      "colones" : 369026,
+      "euroPrice": 518.16
+    }
+  ]
+}
